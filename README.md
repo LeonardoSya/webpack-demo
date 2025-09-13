@@ -116,7 +116,7 @@ const routes = [
 
 另外，[`WebpackManifestPlugin`](https://github.com/shellscape/webpack-manifest-plugin) 插件可以将 manifest 数据提取为 json 文件
 
-![截屏2025-09-13 13.26.16.png](attachment:aa19eb9c-8a28-4e11-8841-72863858e431:截屏2025-09-13_13.26.16.png)
+<img width="1392" height="508" alt="image" src="https://github.com/user-attachments/assets/4fdf51e4-9dd2-4e72-8196-8dac047bfc78" />
 
 ## prefetch & preload
 
